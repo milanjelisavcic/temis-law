@@ -1,0 +1,317 @@
+Federal Act
+on Financial Services
+(Financial Services Act, FinSA)
+of 15 June 2018 (Status as of 1 August 2021)
+
+The Federal Assembly of the Swiss Confederation,
+
+based on Articles 95, 97, 98 and 122 paragraph 1 of the Federal Constitution1,
+and having considered the Federal Council Dispatch of 4 November 20152,
+
+decrees:
+
+1 SR 101
+
+2 BBl 2015 8901
+
+Title 1 General Provisions
+Art. 1 Purpose and subject matter
+1 This Act seeks to protect the clients of financial service providers and to establish comparable conditions for the provision of financial services by financial service providers, and thus contributes to enhancing the reputation and competitiveness of Switzerland's financial centre.
+
+2 To this end, it establishes the requirements for honesty, diligence and transparency in the provision of financial services and governs the offering of financial instruments.
+
+Art. 2 Scope of application
+1 This Act applies to all of the following, irrespective of their legal form:
+
+a.
+financial service providers;
+b.
+client advisers;
+c.
+producers and providers of financial instruments.
+2 This Act does not apply to:
+
+a.
+the Swiss National Bank;
+b.
+the Bank for International Settlements;
+c.
+occupational pension schemes and other institutions whose purpose is to serve occupational pensions (occupational pension schemes), as well as employer-sponsored foundations (employer-sponsored welfare funds); employers who manage the assets of their occupational pension schemes; employer and employee associations which manage the assets of their association schemes;
+d.
+the following, provided their activities are subject to the Insurance Supervision Act of 17 December 20043 (ISA):
+1.
+insurance companies,
+2.
+insurance intermediaries,
+3.
+ombudsman's offices;
+e.
+public insurance institutions in accordance with Article 67 paragraph 1 of the Federal Act of 25 June 19824 on Occupational Old Age, Survivors' and Invalidity Pension Provision.
+3 SR 961.01
+
+4 SR 831.40
+
+Art. 3 Definitions
+For the purposes of this Act:
+
+a.
+Financial instruments are:
+1.
+equity securities:
+–
+securities in the form of shares including share-like securities allowing for participation or voting rights, such as participation certificates and dividend rights certificates
+–
+securities which, on conversion or exercise of the rights evidenced by them, enable the acquisition of equity securities, as set forth above, as soon as they have been registered for conversion,
+2.
+debt instruments: securities not classified as equity securities,
+3.
+units in collective investment schemes in accordance with Articles 7 and 119 of the Collective Investment Schemes Act of 23 June 20065 (CISA),
+4.
+structured products, i.e. capital-protected products, capped return products and certificates,
+5.6
+derivatives in accordance with Article 2 letter c of the Financial Market Infrastructure Act of 19 June 20157 (FinMIA),
+6.
+deposits whose redemption value or interest is risk- or price-dependent, excluding those whose interest is linked to an interest rate index,
+7.
+bonds: units in an overall loan subject to uniform conditions;
+b.8
+securities are standardised certificated and uncertificated securities, in particular uncertificated securities in accordance with Article 973c of the Code of Obligations (CO)9 and ledger-based securities in accordance with Article 973d of the CO, as well as derivatives and intermediated securities, which are suitable for mass trading;
+c.
+financial services are any of the following activities carried out for clients:
+1.
+acquisition or disposal of financial instruments,
+2.
+receipt and transmission of orders in relation to financial instruments,
+3.
+administration of financial instruments (portfolio management),
+4.
+provision of personal recommendations on transactions with financial instruments (investment advice),
+5.
+granting of loans to finance transactions with financial instruments;
+d.
+financial service providers are persons who provide financial services on a commercial basis in Switzerland or for clients in Switzerland, with the criterion of a commercial basis being satisfied if there is an independent economic activity pursued on a permanent, for-profit basis;
+e.
+client advisers are natural persons who perform financial services on behalf of a financial service provider or in their own capacity as financial service providers;
+f.
+issuers are persons who issue or intend to issue securities;
+g.
+an offer is any invitation to acquire a financial instrument that contains sufficient information on the terms of the offer and the financial instrument itself;
+h.
+a public offer is an offer to the public;
+i.
+producers are persons who produce a financial instrument or modify an existing financial instrument, including its risk and return profile or the costs associated with investing in the financial instrument.
+5 SR 951.31
+
+6 Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 (AS 2021 33, 399; BBl 2020 233).
+
+7 SR 958.1
+
+8 Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 (AS 2021 33, 399; BBl 2020 233).
+
+9 SR 220
+
+Art. 4 Client segmentation
+1 Financial service providers shall assign the persons for whom they provide financial services to one of the following segments:
+
+a.
+retail clients;
+b.
+professional clients;
+c.
+institutional clients.
+2 Retail clients are clients who are not professional clients.
+
+3 Professional clients10 are:
+
+a.
+financial intermediaries as defined in the Banking Act of 8 November 193411 (BankA), the Financial Institutions Act of 15 June 201812 (FinIA) and the CISA13;
+b.
+insurance companies as defined in the ISA14;
+c.
+foreign clients subject to prudential supervision as the persons listed under a and b above;
+d.
+central banks;
+e.
+public entities with professional treasury operations;
+f.
+occupational pension schemes with professional treasury operations and other occupational pension institutions providing professional treasury operations;
+g.
+companies with professional treasury operations;
+h.
+large companies;
+i.
+private investment structures with professional treasury operations created for high-net-worth retail clients.
+4 Institutional clients15 are professional clients as defined in paragraph 3 letters a to d as well as national and supranational public entities with professional treasury operations.
+
+5 A large company is a company which exceeds two of the following parameters:
+
+balance sheet total of CHF 20 million;
+
+turnover of CHF 40 million;
+
+equity of CHF 2 million.
+
+6 Companies of a group that receive a financial service from another company from the same group are not deemed to be clients.
+
+7 Financial service providers may refrain from client segmentation if they treat all clients as retail clients.
+
+10 As professional clients are primarily legal entities, they are referred to herein as «it».
+
+11 SR 952.0
+
+12 SR 954.1
+
+13 SR 951.31
+
+14 SR 961.01
+
+15 As institutional clients are primarily legal entities, they are referred to as «it».
+
+Art. 5 Opting out and opting in
+1 High-net-worth retail clients and private investment structures created for them may declare that they wish to be treated as professional clients (opting out).
+
+2 Any person who can credibly declare that they satisfy the criteria under a and b below will be deemed high-net-worth within the meaning of paragraph 1:
+
+a.
+on the basis of training, education and professional experience or on the basis of comparable experience in the financial sector, they possess the necessary knowledge to understand the risks associated with the investments and have at their disposal assets of at least CHF 500,000; or
+b.
+they have at their disposal assets of at least CHF 2 million.
+3 Professional clients within the meaning of Article 4 paragraph 3 letters f and g may declare that they wish to be treated as institutional clients.
+
+4 Swiss and foreign collective investment schemes and their management companies which are not already deemed to be institutional clients within the meaning of Article 4 paragraph 3 letter a or c in conjunction with Article 4 paragraph 4 may declare that they wish to be treated as institutional clients.
+
+5 Professional clients who are not institutional clients within the meaning of Article 4 paragraph 4 may declare that they wish to be treated as retail clients (opting in).
+
+6 Institutional clients may declare that they wish to be treated only as professional clients.
+
+7 Before providing any financial services, financial service providers shall inform those of their clients who are not classified as retail clients of the possibility of opting in.
+
+8 The declarations in paragraphs 1 to 6 must be made in writing or in another form demonstrable via text.
+
+Title 2 Requirements for the Provision of Financial Services
+Chapter 1 Required Knowledge
+Art. 6
+Client advisers must have sufficient knowledge of the code of conduct set out in this Act and the necessary expertise required to perform their activities.
+
+Chapter 2 Code of Conduct
+Section 1 Principle
+Art. 7
+1 Financial service providers must comply with the supervisory duties set out under this title when providing financial services.
+
+2 The specific provisions of other pieces of legislation are reserved.
+
+Section 2 Duty to Provide Information
+Art. 8 Content and form of information
+1 Financial service providers shall inform their clients of the following:
+
+a.
+their name and address;
+b.
+their field of activity and supervisory status;
+c.
+the possibility of initiating mediation proceedings before a recognised ombudsman in accordance with Title 5; and
+d.
+the general risks associated with financial instruments.
+2 They shall also provide information on:
+
+a.
+the financial service personally recommended and the associated risks and costs;
+b.
+the business affiliations with third parties in connection with the financial service offered;
+c.
+the market offer taken into account when selecting the financial instruments.
+3 Where financial instruments are personally recommended, financial service providers shall also make the key information document available to the retail client insofar as such a document must be produced for the financial instrument recommended (Articles 58 and 59). In the case of a compound financial instrument, a key information document shall be made available for said instrument only.
+
+4 No key information document need be made available if the service is provided exclusively in the execution or transmission of client orders, unless a key information document has already been produced for the financial instrument.
+
+5 When personally recommending financial instruments for which a prospectus is required (Articles 35 to 37), financial service providers shall make this prospectus available to their retail client free of charge upon request.
+
+6 Advertising must be indicated as such.
+
+Art. 9 Timing and form of information
+1 Financial service providers shall inform their clients before the signing of the contract or provision of the service.
+
+2 Financial service providers shall make the key information document available free of charge to their retail clients before the signing or conclusion of the contract. Where consultation takes place without the client being physically present, the key information document may be made available after conclusion of the transaction if the client so consents. Financial service providers shall document said consent.
+
+3 The information may be made available to clients in standardised form on paper or electronically.
+
+Section 3 Appropriateness and Suitability of Financial Services
+Art. 10 Duty to review
+Financial service providers that provide investment advice or portfolio management services shall perform an appropriateness or suitability review.
+
+Art. 11 Assessment of appropriateness
+A financial service provider that provides investment advice for individual transactions without taking account of the entire client portfolio must enquire about its clients' knowledge and experience and must check whether financial instruments are appropriate for its clients before recommending them.
+
+Art. 12 Assessment of suitability
+A financial service provider that provides investment advice taking account of the client portfolio or portfolio management must enquire about its clients' financial situation and investment objectives as well as their knowledge and experience. This knowledge and experience relates to the financial service and not to the individual transactions.
+
+Art. 13 Exemption from the duty to review
+1 Where solely executing or transmitting client orders, financial service providers are not obliged to perform an appropriateness or suitability assessment.
+
+2 They shall notify the clients before providing the service described in paragraph 1 that an appropriateness or suitability assessment will not be performed.
+
+3 In the case of professional clients, they may assume that these clients have the required level of knowledge and experience and can financially bear the investment risks associated with the financial service.
+
+Art. 14 Non-assessable or lacking appropriateness or suitability
+1 If the information received by the financial service provider is insufficient for assessing the appropriateness or suitability of a financial instrument, it shall inform the client before providing the service that it cannot perform this assessment.
+
+2 If the financial service provider is of the opinion that a financial instrument is not appropriate or suitable for its clients, it shall advise them against it before providing it.
+
+3 A lack of knowledge and experience may be compensated for by providing clients with information.
+
+Section 4 Documentation and Rendering of Account
+Art. 15 Documentation
+1 Financial service providers shall document in an appropriate manner:
+
+a.
+the financial services agreed with clients and the information collected about them;
+b.
+the notification described in Article 13 paragraph 2 or the fact that they advised the clients in accordance with Article 14 against availing of the service;
+c.
+the financial services provided for clients.
+2 When providing investment advice, they shall also document clients' needs and the grounds for each recommendation leading to the acquisition or disposal of a financial instrument.
+
+Art. 16 Rendering of account
+1 If so requested, financial service providers shall provide their clients with a copy of the documentation mentioned in Article 15 or shall make it accessible to them in another appropriate manner.
+
+2 Moreover, at the clients' request, they shall render account of:
+
+a.
+the financial services agreed and provided;
+b.
+the composition, valuation and development of the portfolio;
+c.
+the costs associated with the financial services.
+3 The Federal Council shall regulate the minimum content of the information specified in paragraph 2.
+
+Section 5 Transparency and Care in Client Orders
+Art. 17 Handling of client orders
+1 Financial service providers shall uphold the principles of good faith and equal treatment when handling client orders.
+
+2 The Federal Council shall regulate how the principles under paragraph 1 are to be upheld, specifically regarding the procedures and systems for processing client orders.
+
+Art. 18 Best execution of client orders
+1 Financial service providers shall ensure in the execution of their clients' orders that the best possible outcome is achieved in terms of cost, timing and quality.
+
+2 Regarding cost, they shall consider not only the price of the financial instrument but also the expenses incurred in the execution of the order and the compensation from third parties mentioned in Article 26 paragraph 3.
+
+3 If they employ staff to execute client orders, financial service providers shall issue internal directives on the execution of client orders which are commensurate with the number of such staff members and the structure of operations.
+
+Art. 19 Use of clients' financial instruments
+1 Financial service providers may borrow financial instruments from clients' portfolios as a counterparty or act as an agent for such transactions only if the clients have given their prior and express consent to these transactions in writing or in another form demonstrable via text in an agreement that is separate from the general terms and conditions.
+
+2 The clients' consent is valid only if:
+
+a.
+they have been clearly informed of the risks associated with such transactions;
+b.
+they are entitled to equalisation payments for the proceeds due from the financial instruments borrowed; and
+c.
+they are compensated for the financial instruments borrowed.
+3 Short selling with the financial instruments of retail clients is not permitted.
+
+Section 6 Institutional and Professional Clients
+Art. 20
+1 The provisions of this chapter do not apply to transactions involving institutional clients.
+
+2 Professional clients may expressly release financial service providers from applying the code of conduct set out in Articles 8, 9, 15 and 16.
